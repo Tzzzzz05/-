@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>1.jfif</file>
+        <file>2.jfif</file>
+        <file>3.jfif</file>
+        <file>4.jfif</file>
+        <file>5.jfif</file>
+        <file>6.jfif</file>
+        <file>7.jfif</file>
+        <file>8.jfif</file>
+        <file>666.gif</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>sound/爱如火.mp3</file>
+        <file>sound/蓝莲花.mp3</file>
+        <file>sound/小苹果.mp4</file>
+        <file>sound/2983329198.mp3</file>
+    </qresource>
+</RCC>
